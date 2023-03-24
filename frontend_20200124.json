@@ -83,7 +83,25 @@
            "css" : 4,
            "JS" : 4,
            "Vue" : 4 
-       } 
+       },
+            {
+        "Nombre":"Alumno5",
+       "email" : "Alumno5@gmail.com",
+       "linked" : "https://www.linkedin.com/aa",
+       "github" : "https://github.com/asasa",
+       "inicio" : {     
+           "html":2,
+           "css" :3,
+           "JS" : 1,
+           "Vue" : 3
+       },
+       "fin" :{     
+           "html" : 4,
+           "css" : 4,
+           "JS" : 4,
+           "Vue" : 4 
+       },
+           
    
    }  
 ]
