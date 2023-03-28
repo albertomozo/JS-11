@@ -118,7 +118,26 @@
         "css": 5,
         "JS": 5,
         "Vue": 5
-      }
+      },
+      {
+        "Nombre":"Alumno6",
+       "email" : "Alumno6@gmail.com",
+       "linked" : "https://www.linkedin.com/",
+       "github" : "https://github.com",
+       "inicio" : {     
+           "html":1,
+           "css" :1,
+           "JS" : 1,
+           "Vue" : 1
+       },
+       "fin" :{     
+           "html" : 4,
+           "css" : 4,
+           "JS" : 4,
+           "Vue" : 4 
+       } 
+   
+   }  
     }
            
    
