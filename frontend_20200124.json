@@ -1,14 +1,14 @@
 {
-  "curso": "FRONTEND",
-  "fecha_inicio": "2022-01-24",
-  "lugar": "Donosti",
-  "tutor": {
-    "Nombre": "Alberto Mozo",
-    "email": "albertomozodocente@gmail.com",
-    "linked": "https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/",
-    "github": "https://github.com/albertomozo"
-  },
-  "alumnos": [
+    "curso": "FRONTEND",
+    "fecha_inicio": "2022-01-24",
+    "lugar": "Donosti",
+    "tutor": {
+      "Nombre": "Alberto Mozo",
+      "email": "albertomozodocente@gmail.com",
+      "linked": "https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/",
+      "github": "https://github.com/albertomozo"
+    },
+  "alumnos" : [
     {
       "Nombre": "Alumno1",
       "email": "Alumno1@gmail.com",
@@ -26,10 +26,136 @@
         "JS": 4,
         "Vue": 4
       }
-    }
-
-
-]
-
-}
-
+    },
+          {
+              "Nombre":"Alumno2",
+              "email" : "Alumno2@gmail.com",
+              "linked" : "https://www.linkedin.com/",
+              "github" : "https://github.com",
+              "inicio" : {     
+                  "html":2,
+                  "css" :3,
+                  "JS" : 1,
+                  "Vue" : 3
+              },
+              "fin" :{     
+                  "html" : 4,
+                  "css" : 4,
+                  "JS" : 4,
+                  "Vue" : 4 
+              } 
+          
+          },
+          {
+             "Nombre":"Alumno3",
+             "email" : "Alumno4@gmail.com",
+             "linked" : "https://www.linkedin.com/",
+             "github" : "https://github.com",
+             "inicio" : {     
+                 "html":2,
+                 "css" :3,
+                 "JS" : 1,
+                 "Vue" : 3
+             },
+             "fin" :{     
+                 "html" : 4,
+                 "css" : 4,
+                 "JS" : 4,
+                 "Vue" : 4 
+             } 
+         
+         },
+         {
+         "Nombre":"Alumno4",
+         "email" : "Alumno4@gmail.com",
+         "linked" : "https://www.linkedin.com/",
+         "github" : "https://github.com",
+         "inicio" : {     
+             "html":2,
+             "css" :3,
+             "JS" : 1,
+             "Vue" : 3
+         },
+         "fin" :{     
+             "html" : 4,
+             "css" : 4,
+             "JS" : 4,
+             "Vue" : 4 
+         }
+        },
+        {
+         "Nombre":"Alumno5",
+         "email" : "Alumno5@gmail.com",
+         "linked" : "https://www.linkedin.com/aa",
+         "github" : "https://github.com/asasa",
+         "inicio" : {     
+             "html":2,
+             "css" :3,
+             "JS" : 1,
+             "Vue" : 3
+         },
+         "fin" :{     
+             "html" : 4,
+             "css" : 4,
+             "JS" : 4,
+             "Vue" : 4 
+         }
+        },
+        {
+        "Nombre": "Mikel",
+        "email": "mikel@areafor.com",
+        "linked": "https://www.linkedin.com/",
+        "github": "https://github.com",
+        "inicio": {
+          "html": 4,
+          "css": 4,
+          "JS": 4,
+          "Vue": 4
+        },
+        "fin": {
+          "html": 5,
+          "css": 5,
+          "JS": 5,
+          "Vue": 5
+        }
+      },
+        {
+         "Nombre":"Iván Delgado Terroso",
+         "email" : "ivandelter@outlook.com",
+         "linked" : "https://es.linkedin.com/in/iv%C3%A1n-delgado-terroso-438b58217",
+         "github" : "https://github.com/idelter",
+         "inicio" : {     
+             "html":1,
+             "css" :1,
+             "JS" : 1,
+             "Vue" : 1
+         },
+         "fin" :{     
+             "html" : 4,
+             "css" : 4,
+             "JS" : 4,
+             "Vue" : 4 
+         }
+        },
+        {
+         "Nombre":"Alumno6",
+         "email" : "Alumno6@gmail.com",
+         "linked" : "https://www.linkedin.com/",
+         "github" : "https://github.com",
+         "inicio" : {     
+             "html":1,
+             "css" :1,
+             "JS" : 1,
+             "Vue" : 1
+         },
+         "fin" :{     
+             "html" : 4,
+             "css" : 4,
+             "JS" : 4,
+             "Vue" : 4 
+         }
+     }
+  ]
+  }
+  
+  
