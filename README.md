@@ -1,6 +1,6 @@
 # Curso de JavaScript - Area Marzo-Mayo 2023
 
-## Albertooooo que te falta el README!!!!
+
 
 
 ```bash
